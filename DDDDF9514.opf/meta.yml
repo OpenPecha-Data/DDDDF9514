@@ -6,7 +6,13 @@ imported: '2021-11-12T09:16:25+00:00'
 last_modified: '2022-05-29T08:50:27.122962+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    822d:
+      image_group_id: I1PD95927
+      title: ཆོས་མངོན་པའི་འགྲེལ་པ་གནད་ཀྱི་སྒྲོན་མ།
+      total_pages: 1630
+      order: 82
+      base_file: 822d.txt
 statistics: {}
 quality: {}
 copyright:
